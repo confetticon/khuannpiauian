@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f1b02ad@concert-tracker
+DTSTAMP:20261231T020000Z
+DTSTART:20270101T020000Z
+DTEND:20270101T023000Z
+SUMMARY:🎫 全面開賣｜2027 吉姆hen醉音樂節 Jim Hen Drunk Beer F
+ estival
+LOCATION:吉姆老爹啤酒工場
+DESCRIPTION:https://kktix.com/events/jimhendrunk2027/registrations/new
+URL:https://kktix.com/events/jimhendrunk2027/registrations/new
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：2027 吉姆hen醉音樂節 Jim Hen Drunk B
+ eer Festival
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：2027 吉姆hen醉音樂節 Jim Hen Drunk Beer Fe
+ stival
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
