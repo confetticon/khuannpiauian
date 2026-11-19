@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7682c12b@concert-tracker
+DTSTAMP:20261124T110000Z
+DTSTART:20261125T110000Z
+DTEND:20261125T113000Z
+SUMMARY:🎫 一般販售｜BUMJIN Concert bumkle : [Company Notice] Busine
+ ss as Usual on Christmas
+LOCATION:CJ azit
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214349
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21434
+ 9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：BUMJIN Concert bumkle : [Company Notice] B
+ usiness as Usual on Christmas
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：BUMJIN Concert bumkle : [Company Notice] Busines
+ s as Usual on Christmas
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

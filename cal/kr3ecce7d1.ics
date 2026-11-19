@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ecce7d1@concert-tracker
+DTSTAMP:20261123T110000Z
+DTSTART:20261124T110000Z
+DTEND:20261124T113000Z
+SUMMARY:🎫 一般販售｜2026 Park Soeun Concert 〈The Desire to Belong
+  Nowhere〉
+LOCATION:Vel.R
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214333
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21433
+ 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：2026 Park Soeun Concert 〈The Desire to B
+ elong Nowhere〉
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：2026 Park Soeun Concert 〈The Desire to Belong 
+ Nowhere〉
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

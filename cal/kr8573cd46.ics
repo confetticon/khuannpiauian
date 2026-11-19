@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8573cd46@concert-tracker
+DTSTAMP:20261119T110000Z
+DTSTART:20261120T110000Z
+DTEND:20261120T113000Z
+SUMMARY:🎫 一般販售｜Samui 10th Anniversary 〈My Truth\, My Youth T
+ our〉 - SEOUL
+LOCATION:Gongsang Ondo
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214341
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21434
+ 1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：Samui 10th Anniversary 〈My Truth\, My Yo
+ uth Tour〉 - SEOUL
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：Samui 10th Anniversary 〈My Truth\, My Youth To
+ ur〉 - SEOUL
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
