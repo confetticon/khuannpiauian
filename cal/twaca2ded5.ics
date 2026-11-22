@@ -8,21 +8,20 @@ UID:aca2ded5@concert-tracker
 DTSTAMP:20261210T155900Z
 DTSTART:20261211T155900Z
 DTEND:20261211T162900Z
-SUMMARY:🎫 優先購｜PENTAGON 10th Anniversary Tour <101010> in TAIPEI
+SUMMARY:🎫 好康登記截止｜PENTAGON 10th Anniversary Tour <101010> i
+ n TAIPEI
 LOCATION:Legacy TERA
-DESCRIPTION:https://ticketplus.com.tw/order/255bd437d619ab3facb771b7689bec4
- c/9917ab9abc81f5285805317eb9f82a2f
-URL:https://ticketplus.com.tw/order/255bd437d619ab3facb771b7689bec4c/9917ab
- 9abc81f5285805317eb9f82a2f
+DESCRIPTION:https://showoffice.com.tw/giveaway?uid=P4ofdaGPbR
+URL:https://showoffice.com.tw/giveaway?uid=P4ofdaGPbR
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:10 分鐘後開賣：PENTAGON 10th Anniversary Tour <101010> in
+DESCRIPTION:10 分鐘後截止：PENTAGON 10th Anniversary Tour <101010> in
   TAIPEI
 TRIGGER:-PT10M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:明天開賣：PENTAGON 10th Anniversary Tour <101010> in TAIPE
+DESCRIPTION:明天截止：PENTAGON 10th Anniversary Tour <101010> in TAIPE
  I
 TRIGGER:-P1D
 END:VALARM
