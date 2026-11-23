@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f19e4684@concert-tracker
+DTSTAMP:20261125T110000Z
+DTSTART:20261126T110000Z
+DTEND:20261126T113000Z
+SUMMARY:🎫 一般販售｜Lee Byeong Chan Year-End Solo Concert : Rolling
+ hall Stage
+LOCATION:Rolling Hall
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214243
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21424
+ 3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：Lee Byeong Chan Year-End Solo Concert : Ro
+ llinghall Stage
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：Lee Byeong Chan Year-End Solo Concert : Rollingh
+ all Stage
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
