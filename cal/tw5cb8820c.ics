@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cb8820c@concert-tracker
+DTSTAMP:20261124T040000Z
+DTSTART:20261125T040000Z
+DTEND:20261125T043000Z
+SUMMARY:🎫 全面開賣｜鯊魚娃娃機《討債青春》專輯巡迴 
+ 台中場
+LOCATION:柱 The Pillars（台中）
+DESCRIPTION:https://kktix.com/events/toyshark1/registrations/new
+URL:https://kktix.com/events/toyshark1/registrations/new
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：鯊魚娃娃機《討債青春》專輯巡
+ 迴 台中場
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：鯊魚娃娃機《討債青春》專輯巡迴 
+ 台中場
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
