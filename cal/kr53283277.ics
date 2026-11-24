@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53283277@concert-tracker
+DTSTAMP:20261126T030000Z
+DTSTART:20261127T030000Z
+DTEND:20261127T033000Z
+SUMMARY:🎫 一般販售｜장범준 겨울 공연 〈나의 정원〉 - 
+ 부산
+LOCATION:Sohyang Theater Woori Bank Hall (Busan)
+DESCRIPTION:https://world.nol.com/en/ticket/places/26000171/products/260170
+ 67
+URL:https://world.nol.com/en/ticket/places/26000171/products/26017067
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：장범준 겨울 공연 〈나의 정원
+ 〉 - 부산
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：장범준 겨울 공연 〈나의 정원〉 - 
+ 부산
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
