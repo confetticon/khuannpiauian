@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7be667ff@concert-tracker
+DTSTAMP:20261126T110000Z
+DTSTART:20261127T110000Z
+DTEND:20261127T113000Z
+SUMMARY:🎫 一般販售｜O.O.O 단독 콘서트 : 영원(永遠)
+LOCATION:Gurumare Theater
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214408
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21440
+ 8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：O.O.O 단독 콘서트 : 영원(永遠)
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：O.O.O 단독 콘서트 : 영원(永遠)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
