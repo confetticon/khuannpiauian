@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7fc6e3db@concert-tracker
+DTSTAMP:20261126T080000Z
+DTSTART:20261127T080000Z
+DTEND:20261127T083000Z
+SUMMARY:🎫 一般販售｜Noridogam | seoul mini tour 26’ @ODD HOURS\, 
+ Gwangjin
+LOCATION:ODD HOURS
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214397
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21439
+ 7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：Noridogam | seoul mini tour 26’ @ODD HOU
+ RS\, Gwangjin
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：Noridogam | seoul mini tour 26’ @ODD HOURS\, G
+ wangjin
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

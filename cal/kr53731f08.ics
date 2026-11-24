@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53731f08@concert-tracker
+DTSTAMP:20261126T100000Z
+DTSTART:20261127T100000Z
+DTEND:20261127T103000Z
+SUMMARY:🎫 一般販售｜Noridogam | seoul mini tour 26’ @Post Territo
+ ry Ujeongguk\, Gwangheungchang
+LOCATION:Post Territory Ujeongguk
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214409
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21440
+ 9
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：Noridogam | seoul mini tour 26’ @Post Te
+ rritory Ujeongguk\, Gwangheungchang
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：Noridogam | seoul mini tour 26’ @Post Territor
+ y Ujeongguk\, Gwangheungchang
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
