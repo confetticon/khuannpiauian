@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:39e1de3c@concert-tracker
+DTSTAMP:20261126T030000Z
+DTSTART:20261127T030000Z
+DTEND:20261127T033000Z
+SUMMARY:🎫 全面開賣｜<𝗢𝗡𝗟𝗬 𝗢𝗡𝗘> 𝗡𝗘𝗟
+ 𝗟 𝗟𝗜𝗩𝗘 𝗜𝗡 𝗧𝗔𝗜𝗣𝗘𝗜
+LOCATION:SUB LIVE
+DESCRIPTION:https://kktix.com/events/9549c447/registrations/new
+URL:https://kktix.com/events/9549c447/registrations/new
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：<𝗢𝗡𝗟𝗬 𝗢𝗡𝗘> 𝗡𝗘
+ 𝗟𝗟 𝗟𝗜𝗩𝗘 𝗜𝗡 𝗧𝗔𝗜𝗣𝗘𝗜
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：<𝗢𝗡𝗟𝗬 𝗢𝗡𝗘> 𝗡𝗘𝗟𝗟
+  𝗟𝗜𝗩𝗘 𝗜𝗡 𝗧𝗔𝗜𝗣𝗘𝗜
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
