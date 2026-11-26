@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5ce1ebf@concert-tracker
+DTSTAMP:20261202T110000Z
+DTSTART:20261203T110000Z
+DTEND:20261203T113000Z
+SUMMARY:🎫 一般販售｜SFCJGR First Solo Concert ‘Bad Boy Ballad’ 
+ : Rolling Hall 32nd Anniversary Concert
+LOCATION:Rolling Hall
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214414
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21441
+ 4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：SFCJGR First Solo Concert ‘Bad Boy Balla
+ d’ : Rolling Hall 32nd Anniversary Concert
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：SFCJGR First Solo Concert ‘Bad Boy Ballad’ :
+  Rolling Hall 32nd Anniversary Concert
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
