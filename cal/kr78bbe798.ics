@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78bbe798@concert-tracker
+DTSTAMP:20261129T100000Z
+DTSTART:20261130T100000Z
+DTEND:20261130T103000Z
+SUMMARY:🎫 一般販售｜TONE Studio Stay-easy 〈Goat’s Horn\, Dog’
+ s Heart〉
+LOCATION:Ton Studio
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214428
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21442
+ 8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：TONE Studio Stay-easy 〈Goat’s Horn\, D
+ og’s Heart〉
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：TONE Studio Stay-easy 〈Goat’s Horn\, Dog’s
+  Heart〉
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
