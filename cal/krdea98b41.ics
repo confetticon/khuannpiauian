@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dea98b41@concert-tracker
+DTSTAMP:20261202T110000Z
+DTSTART:20261203T110000Z
+DTEND:20261203T113000Z
+SUMMARY:🎫 一般販售｜gikuhasi Year-End Solo Concert ‘Your Blue’
+LOCATION:Vel.R
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214434
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21443
+ 4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：gikuhasi Year-End Solo Concert ‘Your Blu
+ e’
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：gikuhasi Year-End Solo Concert ‘Your Blue’
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
