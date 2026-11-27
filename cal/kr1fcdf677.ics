@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//concert-tracker//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fcdf677@concert-tracker
+DTSTAMP:20261130T110000Z
+DTSTART:20261201T110000Z
+DTEND:20261201T113000Z
+SUMMARY:🎫 一般販售｜For:Rest LIVE : JeA’s Songs and Stories “Li
+ sianthius”
+LOCATION:Supsegwon Live Kind Square
+DESCRIPTION:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prod
+ Id=214432
+URL:https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=21443
+ 2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 分鐘後開賣：For:Rest LIVE : JeA’s Songs and Stories 
+ “Lisianthius”
+TRIGGER:-PT10M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:明天開賣：For:Rest LIVE : JeA’s Songs and Stories “Lis
+ ianthius”
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
